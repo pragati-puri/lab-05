@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Lab5-starter"
 include(":app")
+include(":app")
  
